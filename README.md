@@ -178,5 +178,5 @@ Los continentes válidos son: `América`, `Europa`, `Asia`, `África`, `Oceanía
 
 ## Links
 
-- 🎥 Video demostrativo: _[insertar URL]_
-- 📄 Documentación PDF: _[insertar URL]_
+- 🎥 [Video demostrativo](https://youtu.be/vNLMOhrcPVY))
+- 📄 [Documentación PDF](https://drive.google.com/file/d/1YBhkSPCCwpm2jnf1d3cSHCb7Dhqu3F-z/view?usp=sharing)
